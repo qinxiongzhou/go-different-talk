@@ -8,7 +8,7 @@ description: Go源码编译介绍
 
 操作系统：macos 11.2.3
 
-IDE：goland 2021.2.1
+IDE：goland 2021.2.1&#x20;
 
 go源码：[https://github.com/golang/go](https://github.com/golang/go)
 
